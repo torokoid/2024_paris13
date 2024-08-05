@@ -114,11 +114,12 @@ background-color: rgba(0, 225, 0, 0.6);
 男子スペインと女子アメリカに<br>
 勝ったら、パリ五輪が終わるまでいます。<br><br></span></h3>
 -->
-<!--
-<h3><span class="yellow"><br>〜〜〜Lyonからパリにバス移動〜〜〜<br><br></span></h3>
--->
 
+<h3><span class="yellow"><br>〜〜〜8/4パリ観光。ナポレオンの墓まで散歩がてら向かう〜〜〜<br><br></span></h3>
+
+<!--
 <a href="20240804_001.png" data-lightbox="abc"><img src="20240804_001.png" alt="サンプル画像" width="900" /></a>
+-->
 
 <a href="20240804_001.JPG" data-lightbox="abc"><img src="20240804_001.JPG" alt="サンプル画像" width="900" /></a>
 
